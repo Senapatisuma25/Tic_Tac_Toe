@@ -44,4 +44,4 @@ function restart(){
     
     currentplayer=X_TEXT;
 }
-startGame()
+startGame();
